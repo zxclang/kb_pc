@@ -1,0 +1,658 @@
+@charset "utf-8";
+.w998 {
+    width: 998px;
+    margin: 0 auto;
+}
+.mainTitle.mt8 {
+    background-position: 0 -577px;
+}
+.mainTitle {
+    margin: 0 auto 40px;
+    display: block;
+    height: 34px;
+    width: 180px;
+    overflow: hidden;
+}
+.mainTitle, .teacherNum i {
+    background: url("../images/wenzi.png") no-repeat;
+}
+.visionWords {
+    margin: -30px 0 25px;
+    color: #444;
+    line-height: 28px;
+}
+.visionWords, .weixinPop {
+    text-align: center;
+}
+dt {
+    display: block;
+}
+.aparleft dt {
+    width: 450px;
+    float: left;
+    height: 493px;
+}
+.aparleft dd {
+    width: 500px;
+    float: right;
+}
+dd {
+    display: block;
+    margin-inline-start: 40px;
+}
+.aparleft h3 {
+    margin: 12px 0 3px 0;
+}
+.visionWords {
+    margin: -30px 0 25px;
+    color: #444;
+    line-height: 28px;
+}
+#sliderBar, .focusTab a, .footAdd strong, .footIcp, .footWeixinPop, .fWord_btn a, .getFreeClass, .ourPromise, .teacherWzItem, .visionWords, .weixinPop {
+    text-align: center;
+}
+.advantage {
+    background: #87ba00;
+    height: 650px;
+    padding-top: 50px;
+}
+.header, .w998, sub, sup {
+    position: relative;
+}
+.mainTitle {
+    margin: 0 auto 40px;
+    display: block;
+    height: 34px;
+    width: 180px;
+    overflow: hidden;
+}
+.mainTitle.mt1 {
+    background-position: 0 -386px;
+}
+.fwords span, .mainTitle, .teacherNum i {
+    background-image: url("../images/wenzi.png");
+    background-repeat: no-repeat;
+}
+.gridrow {
+    margin-left: -20px;
+    width: 1125px;
+}
+#sliderBar a, .fixLogoImg, .focusImg, .fwords span, .logoImg, .mainTitle {
+    text-indent: -999em;
+}
+.advItem {
+    height: 220px;
+    position: relative;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.grid8 {
+    width: 316px;
+    float: left;
+    margin-left: 20px;
+    display: inline;
+}
+.advImg {
+    background: url(../images/kuang.png) 50% no-repeat #fafafa;
+}
+.advImg, .advImg img {
+    width: 316px;
+    height: 220px;
+}
+.ourVision {
+    padding: 60px 0 70px;
+}
+.mainTitle.mt2 {
+    background-position: -205px -386px;
+}
+.mainTitle {
+    margin: 0 auto 40px;
+    display: block;
+    height: 34px;
+    width: 180px;
+    overflow: hidden;
+}
+.visionWords {
+    margin: -30px 0 25px;
+    color: #444;
+    line-height: 28px;
+}
+.videoArea {
+    width: 988px;
+    height: 488px;
+}
+#scroll_wrapper {
+    position: relative;
+    top: 0;
+}
+.videoItem {
+    left: 818px;
+    z-index: 10;
+}
+.videoItem, .videoPlay {
+    width: 818px;
+    height: 460px;
+    position: absolute;
+    top: 0;
+    display: block;
+}
+.parentWaper {
+    width: 100%;
+    padding: 50px 0 85px;
+    background: #f1f1f1;
+}
+.parentPraise {
+    width: 988px;
+    margin: 0 auto;
+}
+.mainTitle.mt4 {
+    background-position: -205px -430px;
+    width: 143px;
+}
+.mainTitle {
+    margin: 0 auto 40px;
+    display: block;
+    height: 34px;
+    width: 180px;
+    overflow: hidden;
+}
+.gridrow {
+    margin-left: -20px;
+    width: 1125px;
+}
+.praiseItem, .praiseWords {
+    background: #fff;
+}
+.videoArea {
+    width: 988px;
+    height: 488px;
+}
+.videoArea, .videoImg {
+    margin: 0 auto;
+    position: relative;
+}
+.grid6 {
+    width: 205px;
+}
+.praiseWords {
+    border: 1px solid #ddd;
+    border-top: 0 none;
+    padding: 12px 12px 20px;
+    color: #666;
+    height: 225px;
+}
+.praiseTitle, .praiseWord {
+    text-align: center;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.videoImg {
+    background: url(../images/kuang.png) 50% no-repeat;
+    width: 818px;
+    height: 460px;
+    overflow: hidden;
+}
+.videoArea, .videoImg {
+    margin: 0 auto;
+    position: relative;
+}
+.gridrow {
+    margin-left: -20px;
+    width: 1125px;
+}
+.grid1, .grid2, .grid3, .grid4, .grid5, .grid6, .grid7, .grid8, .grid9, .grid10, .grid11, .grid12, .grid13, .grid14.grid15.grid16, .grid17, .grid18, .grid19, .grid20, .grid21, .grid22, .grid23, .grid24 {
+    float: left;
+    margin-left: 20px;
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

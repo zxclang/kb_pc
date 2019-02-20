@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/index.css">
+
+</head>
+<body>
+<script src="js/jquery-1.8.2.min.js"></script>
+<div class="top">
+    <div class="top_m">
+        <h1 class="top_logo"><a href="">
+            <img src="./images/logo.jpg" alt="">
+        </a>
+        </h1>
+        <div class="top_title"></div>
+        <div class="top_tel"></div>
+    </div>
+</div>
+<div class="nav">
+        <div class="nav_m">
+            <ul class="side_nav">
+                <li class="nav_item n1">
+                    <a href="../jxzx/index.html">首页</a>
+                </li>
+                <li class="nav_item n2">
+                    <a href="../ljkb/ljkb.html">了解卡巴</a>
+                    <ul id="sub_02" style="display: none">
+                        <li><a href="../ljkb/kbjs.html">品牌介绍</a></li>
+                        <li><a href="../jqr/kaba_changjianwenti.html">常见问题</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n3">
+                    <a href="../ljkb/kbkc.html">卡巴课程</a>
+                    <ul id="sub_03" style="display: none">
+                        <li><a href="../ljkb/xuelingqian.html">学龄前课程</a></li>
+                        <li><a href="../jxzx/xuelinghou.html">学龄后课程</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n4">
+                    <a href="../jxzx/teaching_center_bt4.html">教学中心</a>
+                    <ul id="sub_04" style="display: none">
+                        <li><a href="../jxzx/teaching_center_bt4.html">教学环境</a></li>
+                        <li><a href="../jxzx/teaching_center_bt3.html">课堂实景</a></li>
+                        <li><a href="../jxzx/teaching_center_bt2.html">教学保障</a></li>
+                        <li><a href="../jxzx/teaching_center_bt1.html">教学理念</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n5">
+                    <a href="../jqr/kaba-saishi.html">机器人赛事</a>
+                </li>
+                <li class="nav_item n6">
+                    <a href="../kbdt/kbdt.html">卡巴动态</a>
+                    <ul id="sub_06" style="display: none">
+                        <li><a href="">卡巴新闻</a></li>
+                        <li><a href="">主题活动</a></li>
+                        <li><a href="">行业动态</a></li>
+                        <li><a href="">父母课堂</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n7">
+                    <a href="">中心分布</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+<div class="main wrap">
+    <div class="m_l">
+            <div class="box">
+                <div class="inbox">
+                        <div id="banner">
+                        <div class="pj-Carousel-box">
+                            <div class="pj-Carousel-item in1"></div>
+                            <div class="pj-Carousel-item in2"></div>
+                            <div class="pj-Carousel-item in3"></div>
+                        </div>
+                        <!--状态-->
+                    </div>
+                    <span class="underblack"> </span>
+                </div>
+                <div class="inbox">
+                    <div id="banner2">
+                        <div class="pj-Carousel-box">
+                            <div class="pj-Carousel-item in4"></div>
+                            <div class="pj-Carousel-item in5"></div>
+                            <div class="pj-Carousel-item in6"></div>
+                        </div>
+                    </div>
+                    <span class="underblack"> </span>
+                </div>
+                <div class="inbox">
+                    <div id="banner3">
+                        <div class="pj-Carousel-box">
+                            <div class="pj-Carousel-item in7"></div>
+                            <div class="pj-Carousel-item in8"></div>
+                            <div class="pj-Carousel-item in9"></div>
+                        </div>
+                    </div>
+                    <span class="underblack"> </span>
+                </div>
+            </div>
+
+        </div>
+    <div class="pic"><img src="images/dbimage.png" alt=""></div>
+    <div class="m_r">
+
+        <img src="images/sign_txt.gif" style=" margin-bottom:10px;">
+        <form action="" id="bform" name="bform" method="post">
+            <input type="hidden" name="action" value="post">
+            <div class="input_bg0"><input name="uname" placeholder="*孩子名字" type="text" id="uname"></div>
+            <div class="input_bg1">
+                <select name="uage" id="uage">
+                    <option value="" selected="selected">*孩子的年龄</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13+">13+</option>
+                </select>
+            </div>
+            <div class="input_bg0">
+                <a href="#" class="btn_ques"></a>
+                <div class="div_answ" style="display: none;">
+                    <div class="div_answ_t"></div>
+                    <p id="answp">请留下您的电话, 以便我们的客服代表与您联系, 也便于您获取我们的活动及优惠讯息短信。我们确保不会将您的信息透露给卡巴及其成员公司以外的任何第三方。</p>
+                    <div class="div_answ_b"></div>
+                </div>
+                <input name="utel" placeholder="*手机号码" type="text" id="utel">
+            </div>
+            <div class="input_bg1">
+                <select name="ucity" id="ucity">
+                    <option value="" selected="selected">*体验校区</option>
+                    <option value="张府园店">张府园店</option>
+                    <option value="江宁同曦店">江宁同曦店</option>
+                    <option value="迈皋桥店">迈皋桥店</option>
+                    <option value="湖南路店">湖南路店</option>
+                    <option value="河西万达店">河西万达店</option>
+                    <option value="凤凰西街店">凤凰西街店</option>
+                    <option value="江宁大学城店">江宁大学城店</option>
+                    <option value="玉桥商业广场店">玉桥商业广场店</option>
+                    <option value="桥北金都汇店">桥北金都汇店</option>
+                    <option value="江宁保乐荟店">江宁保乐荟店</option>
+                    <option value="仙林万达茂店">仙林万达茂店</option>
+                    <option value="桥北天悦城店">桥北天悦城店</option>
+                    <option value="板桥花生唐店">板桥花生唐店</option>
+                    <option value="六合欢乐港店">六合欢乐港店</option>
+                </select>
+            </div>
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                <tr>
+                    <td>
+                        <input type="hidden" name="uhash" value="">
+                        <div id="user_agree" class="hover01">我已经阅读并接受
+                            <a href="#" style="color:#464646; text-decoration:underline;">法律条款</a>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="ttg">请务必填写准确、完整的信息，成功预约后，南京卡巴的课程顾问会在一个工作日内与您取得联系。</p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <div class="btn_submit"></div>
+        </form>
+    </div>
+        </div>
+<div class="content wrap">
+    <div class="content_box">
+        <div class="title">
+            <ul id="newwey">
+                <li class="cur">主题活动</li>
+                <li>卡巴新闻</li>
+                <li>行业动态</li>
+                <li>父母课堂</li>
+            </ul>
+        </div>
+        <div class="content_r display">
+            <div class="headstyle">我是小小剑击手</div>
+            <div class="right_box"><dt><a href="#"><img src="images/555.jpg" alt="" width="270" height="185"></a></dt>
+            <dd class="fontstyle">卡巴和环球击剑有合作啦 !! 卡巴的小学员可以去当一次小小击剑手，感受击剑魅力 击剑是贵族运动 贵族不是养尊处优 而是精神富足 品格高贵 毅力坚强 敢于担当 不畏强权的人群 贵族...
+                <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">卡巴湖南路校区必胜客活动圆满落幕</div>
+            <div class="right_box"><dt><a href="#"><img src="images/666.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">追逐着3月的和风， 沐浴春天的阳光， 卡巴湖南路校区组织的必胜客活动和小朋友们见面啦~ 下面让我们一起来看看吧~ 素材早早就备好了，小朋友们快来吧 穿好衣服，洗好小手，一切...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">江宁文鼎校区科学实验课开课啦！！！</div>
+            <div class="right_box"><dt><a href="#"><img src="images/777.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">卡卡带你体验科学实验课啦！ 实验目的： 了解空气是否可以热胀 重点： 证明气体热胀冷缩的存在；气体热胀冷缩和哪些因素有关 提醒： 实验中会用到热水，请小朋友们注意安全，老...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <span class="pages">共 1 页 3 条记录</span>
+    </div>
+        <div class="content_r none">
+            <div class="headstyle">家长通知！2018中国机器人运动等级考试考前须知</div>
+            <div class="right_box"><dt><a href="#"><img src="images/111.png" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">一、考试时间 12月1日 当天以 准考证信息 为准（过期无效） 二、考场安排 以 准考证考场信息 为准 三、考试地点 金陵中学仙林分校 中学部东门 （南京市仙林大道177号） 四、注意事项..
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">乐高搭建教程-火箭升空</div>
+            <div class="right_box"><dt><a href="#"><img src="images/222.png" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">火箭，在很多小朋友的眼中应该是比较熟悉的，它时常出现在各种各样的动画片中，在小朋友的眼里看来，它应该是一个高高长长的，可以飞的很高很快的飞行工具，其实呢，真正的火...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">2018中国机器人运动等级考试报名开始啦！</div>
+            <div class="right_box"><dt><a href="#"><img src="images/111.png" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">1、考级简介 为检验学员对机器人知识和技能的熟练程度，考查学员对机器人知识（结构、控制、传感器）的学习和理解，中国机器人运动等级考试中心决定开展20182019中国机器人等级资...
+                    <a href="">详细了解</a></dd>
+            </div>
+
+            <span class="pages">共 1 页 3 条记录</span>
+        </div>
+        <div class="content_r none">
+            <div class="headstyle">我是小小剑击手</div>
+            <div class="right_box"><dt><a href="#"><img src="images/555.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">卡巴和环球击剑有合作啦 !! 卡巴的小学员可以去当一次小小击剑手，感受击剑魅力 击剑是贵族运动 贵族不是养尊处优 而是精神富足 品格高贵 毅力坚强 敢于担当 不畏强权的人群 贵族...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">卡巴湖南路校区必胜客活动圆满落幕</div>
+            <div class="right_box"><dt><a href="#"><img src="images/666.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">追逐着3月的和风， 沐浴春天的阳光， 卡巴湖南路校区组织的必胜客活动和小朋友们见面啦~ 下面让我们一起来看看吧~ 素材早早就备好了，小朋友们快来吧 穿好衣服，洗好小手，一切...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">江宁文鼎校区科学实验课开课啦！！！</div>
+            <div class="right_box"><dt><a href="#"><img src="images/777.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">卡卡带你体验科学实验课啦！ 实验目的： 了解空气是否可以热胀 重点： 证明气体热胀冷缩的存在；气体热胀冷缩和哪些因素有关 提醒： 实验中会用到热水，请小朋友们注意安全，老...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <span class="pages">共 1 页 3 条记录</span>
+        </div>
+        <div class="content_r none">
+            <div class="headstyle">我是小小剑击手</div>
+            <div class="right_box"><dt><a href="#"><img src="images/555.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">卡巴和环球击剑有合作啦 !! 卡巴的小学员可以去当一次小小击剑手，感受击剑魅力 击剑是贵族运动 贵族不是养尊处优 而是精神富足 品格高贵 毅力坚强 敢于担当 不畏强权的人群 贵族...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">卡巴湖南路校区必胜客活动圆满落幕</div>
+            <div class="right_box"><dt><a href="#"><img src="images/666.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">追逐着3月的和风， 沐浴春天的阳光， 卡巴湖南路校区组织的必胜客活动和小朋友们见面啦~ 下面让我们一起来看看吧~ 素材早早就备好了，小朋友们快来吧 穿好衣服，洗好小手，一切...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <div class="headstyle">江宁文鼎校区科学实验课开课啦！！！</div>
+            <div class="right_box"><dt><a href="#"><img src="images/777.jpg" alt="" width="270" height="185"></a></dt>
+                <dd class="fontstyle">卡卡带你体验科学实验课啦！ 实验目的： 了解空气是否可以热胀 重点： 证明气体热胀冷缩的存在；气体热胀冷缩和哪些因素有关 提醒： 实验中会用到热水，请小朋友们注意安全，老...
+                    <a href="">详细了解</a></dd>
+            </div>
+            <span class="pages">共 1 页 3 条记录</span>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer_m clearfix">
+        <ul class="clearfix">
+            <li><a href="">关于卡巴</a></li>
+            <li><a href="">联系我们</a></li>
+            <li><a href="">手机卡巴</a></li>
+            <li><a href="">隐私声明</a></li>
+            <li><a href="">法律公告</a></li>
+            <li><a href="">合作招商</a></li>
+            <li style="border:none"><a href="">友情链接</a></li>
+        </ul>
+        <p>Copyright © 2018 卡巴 www.njkaba.com 版权所有苏ICP备16053428号-1</p>
+    </div>
+
+</div>
+
+<script src="./js/nav.js"></script>
+<script src="js/jquery.pj.js"></script>
+<script src="js/index.js"></script>
+</body>
+</html>

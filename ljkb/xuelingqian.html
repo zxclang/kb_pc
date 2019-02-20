@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./css/cone.css">
+    <script src="./js/jquery-1.12.4.js"></script>
+    <script type="text/javascript">
+    jQuery(function(){
+        jQuery(".btnss a").each(function(i){
+            jQuery(this).click(function(){
+                jQuery(".btnss a").removeClass().eq(i).addClass("cur");
+                jQuery(".votecont").hide().eq(i).show();
+            });
+        });
+
+});
+
+jQuery(function(){
+
+        jQuery(".volefle1 a").each(function(i){
+            jQuery(this).click(function(){
+                jQuery(".volefle1 a").removeClass().eq(i).addClass("kur");
+                jQuery(".volerig1").hide().eq(i).show();
+            });
+        });
+
+});
+
+jQuery(function(){
+
+        jQuery(".volefle2 a").each(function(i){
+            jQuery(this).click(function(){
+                jQuery(".volefle2 a").removeClass().eq(i).addClass("kur");
+                jQuery(".volerig2").hide().eq(i).show();
+            });
+        });
+
+});
+
+jQuery(function(){
+
+        jQuery(".volefle3 a").each(function(i){
+            jQuery(this).click(function(){
+                jQuery(".volefle3 a").removeClass().eq(i).addClass("kur");
+                jQuery(".volerig3").hide().eq(i).show();
+            });
+        });
+
+});
+
+jQuery(function(){
+
+        jQuery(".volefle4 a").each(function(i){
+            jQuery(this).click(function(){
+                jQuery(".volefle4 a").removeClass().eq(i).addClass("kur");
+                jQuery(".volerig4").hide().eq(i).show();
+            });
+        });
+
+});
+jQuery(function(){
+
+        jQuery(".volefle5 a").each(function(i){
+            jQuery(this).click(function(){
+                jQuery(".volefle5 a").removeClass().eq(i).addClass("kur");
+                jQuery(".volerig5").hide().eq(i).show();
+            });
+        });
+
+});
+
+</script>
+
+</head>
+<body>
+    
+    <!--顶部logo开始-->
+    <div class="top">
+        <div class="top_m">
+            <h1 class="top_logo"><a href="">
+                <img src="./images/logo.jpg" alt="">
+            </a>
+            </h1>
+            <div class="top_title"></div>
+            <div class="top_tel"></div>
+        </div>
+    </div>
+    <!--顶部logo结束-->
+    <!--导航栏开始-->
+    <div class="nav">
+        <div class="nav_m">
+            <ul class="side_nav">
+                <li class="nav_item n1">
+                    <a href="../jxzx/index.html">首页</a>
+                </li>
+                <li class="nav_item n2">
+                    <a href="../ljkb/ljkb.html">了解卡巴</a>
+                    <ul id="sub_02" style="display: none">
+                        <li><a href="../ljkb/kbjs.html">品牌介绍</a></li>
+                        <li><a href="../jqr/kaba_changjianwenti.html">常见问题</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n3">
+                    <a href="../ljkb/kbkc.html">卡巴课程</a>
+                    <ul id="sub_03" style="display: none">
+                        <li><a href="../ljkb/xuelingqian.html">学龄前课程</a></li>
+                        <li><a href="../jxzx/xuelinghou.html">学龄后课程</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n4">
+                    <a href="../jxzx/teaching_center_bt4.html">教学中心</a>
+                    <ul id="sub_04" style="display: none">
+                        <li><a href="../jxzx/teaching_center_bt4.html">教学环境</a></li>
+                        <li><a href="../jxzx/teaching_center_bt3.html">课堂实景</a></li>
+                        <li><a href="../jxzx/teaching_center_bt2.html">教学保障</a></li>
+                        <li><a href="../jxzx/teaching_center_bt1.html">教学理念</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n5">
+                    <a href="../jqr/kaba-saishi.html">机器人赛事</a>
+                </li>
+                <li class="nav_item n6">
+                    <a href="../kbdt/kbdt.html">卡巴动态</a>
+                    <ul id="sub_06" style="display: none">
+                        <li><a href="">卡巴新闻</a></li>
+                        <li><a href="">主题活动</a></li>
+                        <li><a href="">行业动态</a></li>
+                        <li><a href="">父母课堂</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n7">
+                    <a href="">中心分布</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+       
+       <div class="about abt">
+       	<div class="gyrong mp">
+       		<div class="ab aqtu1">
+       			<img src="images/xuelingqian.jpg" class="j3">
+       		</div>
+
+
+       		 <div class="ab atu3">
+             <div class="kb_yi j3">
+        <a href="#" target="_blank"> <img src="images/dbimage.png"></a>
+    </div>
+    <div class="sign j3">
+        <img src="images/sign_txt.gif" style="margin-bottom: 10px;">
+        <form  action="" id="bform" name="bform"  enctype="multipart/form-data" method="post">
+                    <input type="hidden" name="action" value="post" />
+                    <div class="input_bg0"><input name="uname" placeholder="*孩子名字" type="text" id="uname"></div>
+                    <div class="input_bg1">
+                        <select name="uage" id="uage">
+                            <option value="" selected="selected">*孩子的年龄</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                            <option value="11">11</option>
+                            <option value="12">12</option>
+                            <option value="13+">13+</option>
+                        </select>
+                    </div>
+                    <div class="input_bg0">
+                        <a href="javascript:;" class="btn_ques"></a>
+                        <div class="div_answ" style="display: none;">
+                            <div class="div_answ_t"></div>
+                            <p id="answp">请留下您的电话, 以便我们的客服代表与您联系, 也便于您获取我们的活动及优惠讯息短信。我们确保不会将您的信息透露给卡巴及其成员公司以外的任何第三方。</p>
+                            <div class="div_answ_b"></div>
+                        </div>
+                        <input name="utel" placeholder="*手机号码" type="text" id="utel">
+
+                    </div>
+                      <div class="input_bg1">
+                        <select name="ucity" id="ucity">
+                            <option value=""  selected="selected">*体验校区</option>                               <option value='张府园店'>张府园店</option>
+                                    <option value='江宁同曦店'>江宁同曦店</option>
+                                    <option value='迈皋桥店'>迈皋桥店</option>
+                                    <option value='湖南路店'>湖南路店</option>
+                                    <option value='河西万达店'>河西万达店</option>
+                                    <option value='凤凰西街店'>凤凰西街店</option>
+                                    <option value='江宁大学城店'>江宁大学城店</option>
+                                    <option value='玉桥商业广场店'>玉桥商业广场店</option>
+                                    <option value='桥北金都汇店'>桥北金都汇店</option>
+                                    <option value='江宁保乐荟店'>江宁保乐荟店</option>
+                                    <option value='仙林万达茂店'>仙林万达茂店</option>
+                                    <option value='桥北天悦城店'>桥北天悦城店</option>
+                                    <option value='板桥花生唐店'>板桥花生唐店</option>
+                                    <option value='六合欢乐港店'>六合欢乐港店</option>
+      </select>
+                    </div>
+
+                    <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td>
+                                <input type="hidden" name="uhash" value="10fa671dbd31392d7cfb79ee1e28336e" />
+                                <div id="user_agree" class="hover01">我已经阅读并接受<a href="apply/terms.html" target="_blank" style="color:#464646; text-decoration:underline;">法律条款</a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="ttg">请务必填写准确、完整的信息，成功预约后，南京卡巴的课程顾问会在一个工作日内与您取得联系。</p>
+                            </td>
+                        </tr>
+                        </tbody></table>
+                    <div id="errorTxt"></div>
+                    <a href="javascript:;"  ></a>
+                    <input type="submit" name="submit" class="btn_submit" id="dosubmit" value=" "  />
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="centst mp">
+        	<img src="images/community_pre_ato.jpg">
+        	<h3 class="keshaoh3" style="padding:0px 20px 20px 20px; background:#f7f7f7; width:958px;">学龄前-科学课程</h3>
+        	<div class="votewrap" style="padding:0px 20px; background:#f7f7f7; width:958px;">
+        		<div style="height:45px;" class="btnss">
+            	<a href="javascript:;" id="j4" class="cur">3岁Kabba小将</a>
+            	<a href="javascript:;" id="j4">4岁小小发现者</a>
+            	<a href="javascript:;" id="j4">5岁科学探索者</a>
+                <a href="javascript:;" id="j4">6岁未来创想家</a>
+                <a href="list-3.html" id="j4" target="_blank">学龄后科学课程</a>            
+            </div>
+            <div class="votecont" style="display: block;">
+            	<div class="volefle1 f">
+            		<a href="#" id="j3" class="kur">课程内容</a>
+            		<a href="#" id="j3">教学理念</a>
+            		<a href="#" id="j3">教学成果</a>
+               </div>
+
+                 <div class="volerig1 kenet r" style="display: block;">
+                           <h3>3岁：kabba小将</h3>
+                           <p>3岁是小朋友启蒙的再续，针对这个年龄阶段，我们重点在于培养其手眼协调，语言表达，空间方位感知，体验并发现世界的能力。在搭建的过程中，锻炼大肌肉群发展，使其身心得到锻炼。这些能力的培养都涵盖在了kabba小将课程4个主题中。教育儿童通过周围世界的美，人的关系的美而看到精神的高尚、善良和诚实，启发培养儿童美的品质。</p>
+         <br/>
+
+            <dl>
+            	<dt><img src="images/3-1.jpg" alt="3岁:卡巴小将" class="j3" width="270" height="185" /></dt>
+            	<dd class="j3"><strong>幸福家园: </strong>开启孩子内心的温情，感知家与社会的爱，培养爱家庭的观念。感知并认识亲人朋友间更原始的情感。</dd>
+            </dl>
+
+            <dl>
+            	<dt><img src="images/3-2.jpg" alt="3岁:卡巴小将" class="j3" width="270" height="185" /></dt>
+            	<dd class="j3"><strong>动物与自然：</strong>走出熟识的家，去见识自然中的动物与环境来拓宽视野。在搭建过程中，与不同的动物互动玩耍，充分发挥其认知与想象能力。</dd>
+            </dl>
+
+            <dl>
+            	<dt><img src="images/3-3.jpg" alt="3岁:卡巴小将" class="j3" width="270" height="185" /></dt>
+            	<dd class="j3"><strong>奇妙管道：</strong>理解和掌握管道的简单科学知识，开启创造的能力来搭建管道抽象出的实物，对其想象力进行强化。</dd>
+            </dl>
+
+            <dl>
+            	<dt><img src="images/3-4.jpg" alt="3岁:卡巴小将" class="j3" width="270" height="185" /></dt>
+            	<dd class="j3"><strong>故事沙龙：</strong>充分发挥儿童想象力、逻辑能力、语言表达能力等多种能力的综合，让他们去学习和创编自己的积木故事。在过程中让他们感受并了解合作、秩序、事情的安排与讲述。</dd>
+            </dl>
+        </div>
+  </div>
+</div>
+</div>
+
+
+
+         <div class="footer">
+        <div class="footer_m clearfix">
+            <ul class="clearfix">
+                <li><a href="">关于卡巴</a></li>
+                <li><a href="">联系我们</a></li>
+                <li><a href="">手机卡巴</a></li>
+                <li><a href="">隐私声明</a></li>
+                <li><a href="">法律公告</a></li>
+                <li><a href="">合作招商</a></li>
+                <li style="border:none"><a href="">友情链接</a></li>
+            </ul>
+            <p>Copyright © 2018 卡巴 www.njkaba.com 版权所有苏ICP备16053428号-1</p>
+        </div>
+
+    </div>
+
+	
+</body>
+</html>

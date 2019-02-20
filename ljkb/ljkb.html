@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./css/commes.css">
+</head>
+<body>
+    <script src="./js/jquery-1.12.4.js"></script>
+    <div class="top">
+        <div class="top_m">
+            <h1 class="top_logo"><a href="">
+                <img src="./images/logo.jpg" alt="">
+            </a>
+            </h1>
+            <div class="top_title"></div>
+            <div class="top_tel"></div>
+        </div>
+    </div>
+    <div class="nav">
+        <div class="nav_m">
+            <ul class="side_nav">
+                <li class="nav_item n1">
+                    <a href="../jxzx/index.html">首页</a>
+                </li>
+                <li class="nav_item n2">
+                    <a href="../ljkb/ljkb.html">了解卡巴</a>
+                    <ul id="sub_02" style="display: none">
+                        <li><a href="../ljkb/kbjs.html">品牌介绍</a></li>
+                        <li><a href="../jqr/kaba_changjianwenti.html">常见问题</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n3">
+                    <a href="../ljkb/kbkc.html">卡巴课程</a>
+                    <ul id="sub_03" style="display: none">
+                        <li><a href="../ljkb/xuelingqian.html">学龄前课程</a></li>
+                        <li><a href="../jxzx/xuelinghou.html">学龄后课程</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n4">
+                    <a href="../jxzx/teaching_center_bt4.html">教学中心</a>
+                    <ul id="sub_04" style="display: none">
+                        <li><a href="../jxzx/teaching_center_bt4.html">教学环境</a></li>
+                        <li><a href="../jxzx/teaching_center_bt3.html">课堂实景</a></li>
+                        <li><a href="../jxzx/teaching_center_bt2.html">教学保障</a></li>
+                        <li><a href="../jxzx/teaching_center_bt1.html">教学理念</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n5">
+                    <a href="../jqr/kaba-saishi.html">机器人赛事</a>
+                </li>
+                <li class="nav_item n6">
+                    <a href="../kbdt/kbdt.html">卡巴动态</a>
+                    <ul id="sub_06" style="display: none">
+                        <li><a href="">卡巴新闻</a></li>
+                        <li><a href="">主题活动</a></li>
+                        <li><a href="">行业动态</a></li>
+                        <li><a href="">父母课堂</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item n7">
+                    <a href="">中心分布</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="about ap">
+    	<div class="gyrong mp">
+    		<div class="ab atup1"><img class="j1" src="images/pp1.jpg"></div>
+    		<div class="ab atup2 j2">
+    			<h3>卡巴Kaba-品牌愿景</h3>
+    			<p>卡巴kabba希望孩子在快乐中，掌握科学知识，具备动手能力与创造力。</p>
+       <p>每个孩子天生都有强烈的好奇心，他们非常希望了解周围的世界，好奇心是孩子学习的源动力。科学研究表明：在发现世界，探知世界的过程当中，能够使孩子学会发现问题，解决问题，获得快乐、自信与成就感。</p>
+       <p>每位父母都希望孩子轻松快乐，而又茁壮成长。但在今天的传统教育中，孩子已没有太多的快乐，各种补习与辅导，占用了太多的课余时间。对自然科学知识的掌握相对匮乏。此外，以看电视、玩游戏等为主要课余生活的状态，让很多父母矛盾又彷徨。</p>
+       <p>卡巴教育的核心，即是：给孩子一个更快乐的童年。<br>在“玩中学”、“做中学”，鼓励孩子自我感知、发现、探索、创造，助力孩子获得自信乐观的性格、富有创造性的思维和多元化的能力。</p>
+        </div>
+
+         <div class="ab atu3">
+             <div class="kb_yi j3">
+        <a href="#" target="_blank"> <img src="images/dbimage.png"></a>
+    </div>
+    <div class="sign j3">
+        <img src="images/sign_txt.gif" style="margin-bottom: 10px;">
+        <form  action="" id="bform" name="bform"  enctype="multipart/form-data" method="post">
+                    <input type="hidden" name="action" value="post" />
+                    <div class="input_bg0"><input name="uname" placeholder="*孩子名字" type="text" id="uname"></div>
+                    <div class="input_bg1">
+                        <select name="uage" id="uage">
+                            <option value="" selected="selected">*孩子的年龄</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                            <option value="11">11</option>
+                            <option value="12">12</option>
+                            <option value="13+">13+</option>
+                        </select>
+                    </div>
+                    <div class="input_bg0">
+                        <a href="javascript:;" class="btn_ques"></a>
+                        <div class="div_answ" style="display: none;">
+                            <div class="div_answ_t"></div>
+                            <p id="answp">请留下您的电话, 以便我们的客服代表与您联系, 也便于您获取我们的活动及优惠讯息短信。我们确保不会将您的信息透露给卡巴及其成员公司以外的任何第三方。</p>
+                            <div class="div_answ_b"></div>
+                        </div>
+                        <input name="utel" placeholder="*手机号码" type="text" id="utel">
+
+                    </div>
+                      <div class="input_bg1">
+                        <select name="ucity" id="ucity">
+                            <option value=""  selected="selected">*体验校区</option>                               <option value='张府园店'>张府园店</option>
+                                    <option value='江宁同曦店'>江宁同曦店</option>
+                                    <option value='迈皋桥店'>迈皋桥店</option>
+                                    <option value='湖南路店'>湖南路店</option>
+                                    <option value='河西万达店'>河西万达店</option>
+                                    <option value='凤凰西街店'>凤凰西街店</option>
+                                    <option value='江宁大学城店'>江宁大学城店</option>
+                                    <option value='玉桥商业广场店'>玉桥商业广场店</option>
+                                    <option value='桥北金都汇店'>桥北金都汇店</option>
+                                    <option value='江宁保乐荟店'>江宁保乐荟店</option>
+                                    <option value='仙林万达茂店'>仙林万达茂店</option>
+                                    <option value='桥北天悦城店'>桥北天悦城店</option>
+                                    <option value='板桥花生唐店'>板桥花生唐店</option>
+                                    <option value='六合欢乐港店'>六合欢乐港店</option>
+      </select>
+                    </div>
+
+                    <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td>
+                                <input type="hidden" name="uhash" value="10fa671dbd31392d7cfb79ee1e28336e" />
+                                <div id="user_agree" class="hover01">我已经阅读并接受<a href="apply/terms.html" target="_blank" style="color:#464646; text-decoration:underline;">法律条款</a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="ttg">请务必填写准确、完整的信息，成功预约后，南京卡巴的课程顾问会在一个工作日内与您取得联系。</p>
+                            </td>
+                        </tr>
+                        </tbody></table>
+                    <div id="errorTxt"></div>
+                    <a href="javascript:;"  ></a>
+                    <input type="submit" name="submit" class="btn_submit" id="dosubmit" value=" "  />
+
+                </form>
+            </div>
+        </div>
+
+        <div class="ab atup11">
+        	<img class="ji" src="images/pinpai.jpg"/>
+        </div>
+
+        <div class="ab atup5 j1">
+        	<h3>卡巴Kabba LOGO释义：</h3>
+         <p>在卡巴Kabba的LOGO中，我们想传达四层含义：</p>
+         <p><strong>一双手：</strong>它代表了父母对孩子的呵护，也代表了我们“在做中学”的理念。我们知道，孩子大脑的发育与手有密切的关系，所谓的想到做到，也就是一个动手与动脑的关系。</p>
+         <p><strong>三个人：</strong>由一双手可以抽象的看到三个人，父母在两边，孩子在中间一个充满温馨与爱的家庭。也代表了卡巴对所有孩子的祝愿。</p>
+         <p><strong>长了一双翅膀的孩子：</strong>我们希望通过我们不懈的努力，不辜负家长的托付，能够帮助孩子，给孩子一双翱翔未来的翅膀。</p>
+         <p><strong>合适的色彩：</strong>LOGO图案中，草绿色代表了祝福与希望，墨绿色象征黑板的颜色，代表了教育与培训。</p>
+         <p>我们希望，孩子在一个幸福温暖的家庭，在父母的呵护下健康快乐的成长。通过卡巴Kabba可以帮助孩子羽翼渐丰，实现家长对孩子的祝福与希望。</p>
+        </div>
+        <div class="ab atup6"><img class="j2" src="images/577.jpg">
+        </div>
+    </div>
+</div>
+
+    <div class="footer">
+        <div class="footer_m clearfix">
+            <ul class="clearfix">
+                <li><a href="">关于卡巴</a></li>
+                <li><a href="">联系我们</a></li>
+                <li><a href="">手机卡巴</a></li>
+                <li><a href="">隐私声明</a></li>
+                <li><a href="">法律公告</a></li>
+                <li><a href="">合作招商</a></li>
+                <li style="border:none"><a href="">友情链接</a></li>
+            </ul>
+            <p>Copyright © 2018 卡巴 www.njkaba.com 版权所有苏ICP备16053428号-1</p>
+        </div>
+
+    </div>
+
+
+
+
+
+	<script src="./js/nav.js"></script>
+</body>
+</html>

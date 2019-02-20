@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./css/commom.css">
+    <link rel="stylesheet" href="./css/kaba_map.css">
+    <link rel="stylesheet" type="text/css" href="jxzx/css/index.css" />
+</head>
+<body>
+<script src="./js/jquery-1.12.4.js"></script>
+<div class="top">
+    <div class="top_m">
+        <h1 class="top_logo"><a href="">
+            <img src="./images/logo.jpg" alt="">
+        </a>
+        </h1>
+        <div class="top_title"></div>
+        <div class="top_tel"></div>
+    </div>
+</div>
+<div class="nav">
+    <div class="nav_m">
+        <ul class="side_nav">
+            <li class="nav_item n1">
+                <a href="index.html">首页</a>
+            </li>
+            <li class="nav_item n2">
+                <a href="ljkb/ljkb.html">了解卡巴</a>
+                <ul id="sub_02" style="display: none">
+                    <li><a href="ljkb/kbjs.html">品牌介绍</a></li>
+                    <li><a href="jqr/kaba_changjianwenti.html">常见问题</a></li>
+                </ul>
+            </li>
+            <li class="nav_item n3">
+                <a href="../ljkb/kbkc.html">卡巴课程</a>
+                <ul id="sub_03" style="display: none">
+                    <li><a href="ljkb/xuelingqian.html">学龄前课程</a></li>
+                    <li><a href="jxzx/xuelinghou.html">学龄后课程</a></li>
+                </ul>
+            </li>
+            <li class="nav_item n4">
+                <a href="jxzx/teaching_center_bt4.html">教学中心</a>
+                <ul id="sub_04" style="display: none">
+                    <li><a href="jxzx/teaching_center_bt4.html">教学环境</a></li>
+                    <li><a href="jxzx/teaching_center_bt3.html">课堂实景</a></li>
+                    <li><a href="jxzx/teaching_center_bt2.html">教学保障</a></li>
+                    <li><a href="jxzx/teaching_center_bt1.html">教学理念</a></li>
+                </ul>
+            </li>
+            <li class="nav_item n5">
+                <a href="jqr/kaba-saishi.html">机器人赛事</a>
+            </li>
+            <li class="nav_item n6">
+                <a href="kbdt/kbdt.html">卡巴动态</a>
+                <ul id="sub_06" style="display: none">
+                    <li><a href="">卡巴新闻</a></li>
+                    <li><a href="">主题活动</a></li>
+                    <li><a href="">行业动态</a></li>
+                    <li><a href="">父母课堂</a></li>
+                </ul>
+            </li>
+            <li class="nav_item n7">
+                <a href="./kaba_map.html">中心分布</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<script src="./js/nav.js"></script>
+<!--中心分布开始-->
+<div class="main clearfix">
+    <div class="main_m">
+        <!--<div class="map">
+            <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=kpi1x5xGEThYbZImLuGObaxoBzsEOBjD"></script>
+            <div id="allmap"></div>
+            <script type="text/javascript">
+                // 百度地图API功能
+                var map = new BMap.Map("allmap");
+                map.enableScrollWheelZoom();   //启用滚轮放大缩小，默认禁用
+                map.enableContinuousZoom();    //启用地图惯性拖拽，默认禁用
+                map.centerAndZoom(new BMap.Point(116.404, 39.915), 11);
+                // 添加带有定位的导航控件
+                var navigationControl = new BMap.NavigationControl({
+                    // 靠左上角位置
+                    anchor: BMAP_ANCHOR_TOP_LEFT,
+                    // LARGE类型
+                    type: BMAP_NAVIGATION_CONTROL_LARGE,
+                    // 启用显示定位
+                    enableGeolocation: true
+                });
+                map.addControl(navigationControl);
+                // 添加定位控件
+                var geolocationControl = new BMap.GeolocationControl();
+                geolocationControl.addEventListener("locationSuccess", function(e){
+                    // 定位成功事件
+                    var address = '';
+                    address += e.addressComponent.province;
+                    address += e.addressComponent.city;
+                    address += e.addressComponent.district;
+                    address += e.addressComponent.street;
+                    address += e.addressComponent.streetNumber;
+                    alert("当前定位地址为：" + address);
+                });
+                geolocationControl.addEventListener("locationError",function(e){
+                    // 定位失败事件
+                    alert(e.message);
+                });
+                map.addControl(geolocationControl);
+            </script>
+
+        </div>-->
+        <div class="sc_pos">
+            <h3>卡巴南京</h3>
+            <ul class="pos_list">
+                <li><a href="##" id="sc1" class="pos_item">张府园店</a></li>
+                <li><a href="##" id="sc2" class="pos_item">江宁同曦店</a></li>
+                <li><a href="##" id="sc3" class="pos_item">迈皋桥店</a></li>
+                <li><a href="##" id="sc4" class="pos_item">湖南路店</a></li>
+                <li><a href="##" id="sc5" class="pos_item">河西万达店</a></li>
+                <li><a href="##" id="sc6" class="pos_item">凤凰西街店</a></li>
+                <li><a href="##" id="sc7" class="pos_item">江宁大学城店</a></li>
+                <li><a href="##" id="sc8" class="pos_item">玉桥商业广场店</a></li>
+                <li><a href="##" id="sc9" class="pos_item">桥北金都汇店</a></li>
+                <li><a href="##" id="sc10" class="pos_item">江宁保乐荟店</a></li>
+                <li><a href="##" id="sc11" class="pos_item">仙林万达茂店</a></li>
+                <li><a href="##" id="sc12" class="pos_item">桥北天悦城店</a></li>
+                <li><a href="##" id="sc13" class="pos_item">板桥花生唐店</a></li>
+            </ul>
+        </div>
+        <div class="map">
+            <iframe src="http://j.map.baidu.com/ZG-tP" width="550" height="500" style="outline: none; border:none;"></iframe>
+        </div>
+        <script src="./js/kaba_map.js"></script>
+        <div class="ab atu3" style="position:absolute; top:200px;right:5px">
+            <div class="kb_yi j3">
+                <a href="javascript:;" target="_blank"><img src="jxzx/img/dbimage.png"></a>
+            </div>
+            <div class="sign j3">
+                <img src="jxzx/img/sign_txt.gif" style=" margin-bottom:10px;">
+                <form action="" id="bform" name="bform" method="post">
+                    <input type="hidden" name="action" value="post">
+                    <div class="input_bg0"><input name="uname" placeholder="*孩子名字" type="text" id="uname"></div>
+                    <div class="input_bg1">
+                        <select name="uage" id="uage">
+                            <option value="" selected="selected">*孩子的年龄</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                            <option value="11">11</option>
+                            <option value="12">12</option>
+                            <option value="13+">13+</option>
+                        </select>
+                    </div>
+                    <div class="input_bg0">
+                        <a href="javascript:;" class="btn_ques"></a>
+                        <div class="div_answ" style="display: none;">
+                            <div class="div_answ_t"></div>
+                            <p id="answp">请留下您的电话, 以便我们的客服代表与您联系, 也便于您获取我们的活动及优惠讯息短信。我们确保不会将您的信息透露给卡巴及其成员公司以外的任何第三方。</p>
+                            <div class="div_answ_b"></div>
+                        </div>
+                        <input name="utel" placeholder="*手机号码" type="text" id="utel">
+                    </div>
+                    <div class="input_bg1">
+                        <select name="ucity" id="ucity">
+                            <option value="" selected="selected">*体验校区</option>
+                            <option value="张府园店">张府园店</option>
+                            <option value="江宁同曦店">江宁同曦店</option>
+                            <option value="迈皋桥店">迈皋桥店</option>
+                            <option value="湖南路店">湖南路店</option>
+                            <option value="河西万达店">河西万达店</option>
+                            <option value="凤凰西街店">凤凰西街店</option>
+                            <option value="江宁大学城店">江宁大学城店</option>
+                            <option value="玉桥商业广场店">玉桥商业广场店</option>
+                            <option value="桥北金都汇店">桥北金都汇店</option>
+                            <option value="江宁保乐荟店">江宁保乐荟店</option>
+                            <option value="仙林万达茂店">仙林万达茂店</option>
+                            <option value="桥北天悦城店">桥北天悦城店</option>
+                            <option value="板桥花生唐店">板桥花生唐店</option>
+                            <option value="六合欢乐港店">六合欢乐港店</option>
+                        </select>
+                    </div>
+                    <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody>
+                        <tr>
+                            <td>
+                                <input type="hidden" name="uhash" value="">
+                                <div id="user_agree" class="hover01">我已经阅读并接受
+                                    <a href="javascript:;" style="color:#464646; text-decoration:underline;">法律条款</a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="ttg">请务必填写准确、完整的信息，成功预约后，南京卡巴的课程顾问会在一个工作日内与您取得联系。</p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div class="btn_submit"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer_m clearfix">
+        <ul class="clearfix">
+            <li><a href="">关于卡巴</a></li>
+            <li><a href="">联系我们</a></li>
+            <li><a href="">手机卡巴</a></li>
+            <li><a href="">隐私声明</a></li>
+            <li><a href="">法律公告</a></li>
+            <li><a href="">合作招商</a></li>
+            <li style="border:none"><a href="">友情链接</a></li>
+        </ul>
+        <p>Copyright © 2018 卡巴 www.njkaba.com 版权所有苏ICP备16053428号-1</p>
+    </div>
+
+</div>
+
+
+</body>
+</html>

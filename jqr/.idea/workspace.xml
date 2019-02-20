@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e826bdf-be5b-46ce-b43d-7f3d6e08fe18" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="falvtiaok.css" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/css/falvtiaok.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="2318">
+                    <caret line="122" column="29" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="29" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="nav.js" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/js/nav.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="93">
+                    <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="kaba_changjianwenti.css" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/css/kaba_changjianwenti.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="283">
+                    <caret line="183" column="24" lean-forward="true" selection-start-line="183" selection-start-column="24" selection-end-line="183" selection-end-column="24" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="233471169">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="2" />
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1067" />
+          <entry key="html" value="499" />
+          <entry key="js" value="304" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1067" />
+          <entry key="HTML" value="499" />
+          <entry key="JavaScript" value="304" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kaba_changjianwenti.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kaba_changjianwenti.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/commom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="beas.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/beas.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="falvtiaok.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/falvtiaok.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="123" column="41" lean-forward="true" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saishi_pagination01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/saishi_pagination01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kaba-saishi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kaba-saishi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="332" column="48" lean-forward="true" selection-start-line="332" selection-start-column="48" selection-end-line="332" selection-end-column="48" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kaba-saishi.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/kaba-saishi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saishi_pagination01.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/saishi_pagination01.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3933">
+              <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/commom.css" />
+        <option value="$PROJECT_DIR$/css/kabasaishi.css" />
+        <option value="$PROJECT_DIR$/css/beas.css" />
+        <option value="$PROJECT_DIR$/css/kaba-saishi.css" />
+        <option value="$PROJECT_DIR$/saishi_pagination.html" />
+        <option value="$PROJECT_DIR$/css/saishi_pagination01.css" />
+        <option value="$PROJECT_DIR$/saishi_pagination01.html" />
+        <option value="$PROJECT_DIR$/kaba-saishi.html" />
+        <option value="$PROJECT_DIR$/js/kaba_changjianwenti.js" />
+        <option value="$PROJECT_DIR$/falvtiaok.html" />
+        <option value="$PROJECT_DIR$/css/falvtiaok.css" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/css/about.css" />
+        <option value="$PROJECT_DIR$/js/nav.js" />
+        <option value="$PROJECT_DIR$/css/kaba_changjianwenti.css" />
+        <option value="$PROJECT_DIR$/kaba_changjianwenti.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="102" />
+    <option name="y" value="32" />
+    <option name="width" value="1207" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kaba_旧" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaba_旧" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaba_旧" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaba_旧" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaba_旧" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaba_旧" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\kaba_旧" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\kaba_旧\css" />
+      <recent name="G:\kaba_旧" />
+      <recent name="C:\Users\Administrator\Desktop\kaba\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e826bdf-be5b-46ce-b43d-7f3d6e08fe18" name="Default Changelist" comment="" />
+      <created>1544601618912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544601618912</updated>
+      <workItem from="1544601625947" duration="6133000" />
+      <workItem from="1544661856041" duration="7295000" />
+      <workItem from="1544673184106" duration="1212000" />
+      <workItem from="1544681810575" duration="10238000" />
+      <workItem from="1544747689268" duration="28194000" />
+      <workItem from="1544805747154" duration="1917000" />
+      <workItem from="1544836727570" duration="13192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68181000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="102" y="32" width="1207" height="785" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17212427" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kaba_changjianwenti.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saishi_pagination01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3002">
+          <caret line="158" column="36" selection-start-line="158" selection-start-column="36" selection-end-line="158" selection-end-column="36" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba-saishi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="87" column="39" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kaba_changjianwenti.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/saishi_pagination01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba_changjianwenti.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" column="27" lean-forward="true" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kaba_changjianwenti.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/saishi_pagination01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kaba-saishi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba-saishi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="26" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba-saishi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/commom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba-saishi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="56" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/kaba_changjianwenti.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/saishi_pagination01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/falvtiaok" />
+    <entry file="file://$PROJECT_DIR$/css/faq.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2223">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1265" column="54" lean-forward="true" selection-start-line="1265" selection-start-column="54" selection-end-line="1265" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7078#7085#0" expanded="true" />
+            <element signature="e#7088#7095#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#9874#9881#0" expanded="true" />
+            <element signature="e#9884#9891#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14858#14865#0" expanded="true" />
+            <element signature="e#14873#14880#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#6;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#6;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#dt#0;n#dl#0;n#div#0;n#div#0;n#div#1;n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#24406#24413#0" expanded="true" />
+            <element signature="e#24421#24428#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/commom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/beas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/falvtiaok.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="122" column="29" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kaba-saishi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kaba_changjianwenti.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="183" column="24" lean-forward="true" selection-start-line="183" selection-start-column="24" selection-end-line="183" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/falvtiaok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="123" column="41" lean-forward="true" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba-saishi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="332" column="48" lean-forward="true" selection-start-line="332" selection-start-column="48" selection-end-line="332" selection-end-column="48" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaba_changjianwenti.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saishi_pagination01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

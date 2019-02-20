@@ -1,0 +1,232 @@
+@charset "utf-8";
+.zhongbei{
+    width: 100%;
+    height: 433px;
+    background: url("../images/robotex.jpg") top center no-repeat ;
+}
+.zhongbei a{
+    width: 100%;
+    display: block;
+}
+
+.zhongmain{
+    margin: 0 auto;
+    width: 1130px;
+}
+.saishi{
+    width: 865px;
+    float: left;
+}
+/*左边 开始*/
+.saishi_url{
+    line-height: 42px;
+    color: #666;
+}
+.saishi_nav{
+    height: 52px;
+    background-color: #90B722;
+    border-radius: 10px;
+    line-height: 54px;
+    margin-top: 25px;
+}
+.saishi_nav a{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    width: 240px;
+    margin: 0 0 0 20px;
+    text-indent: 1em;
+    float: left;
+}
+.saishi_hotNew{
+    width: 100%;
+    height: 380px;
+    margin-top: 10px;
+    border:solid 1px #dedede;
+    border-radius: 10px;
+}
+.hotNew_box-a11{
+    padding: 29px 29px 24px 29px;
+    position: relative;
+}
+.box-a11_title-h3{
+    margin-top: 10px;
+}
+.box-a11_title-h3 a h2{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #333;
+}
+.box-a11_ins{
+    color: #929292;
+    line-height: 24px;
+    width: 605px;
+}
+.box-a11_partakeBtn{
+    position: absolute;
+    right: -1px;
+    bottom: 35px;
+    width: 130px;
+    height: 58px;
+
+    color: #fff;
+    text-align: center;
+    background:url("../images/beijingjiant.jpg") no-repeat;
+
+}
+.box-a11_partakeBtn a {
+    color: #fff;
+    line-height: 58px;
+    font-size: 18px;
+}
+/*左边 结束*/
+/*右边  开始*/
+.saishi_zhongrig{
+    margin-top: 43px;
+    width: 238px;
+    height: 430px;
+    float: right;
+}
+.zhongrig_kb_yi{
+    background-color: #90B622;
+    width: 238px;
+    height: 71px;
+    padding: 9px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+.zhongrig_sign{
+    height: 329px;
+    padding-left: 22px;
+    background: #f9ca3b;
+    padding-top: 12px;
+    padding-bottom: 3px;
+    text-align: left;
+    color: #464646;
+    position: relative;
+    margin: 15px 0 0 0;
+    border-radius: 10px;
+}
+.zhongrig_sign .sign3 form input{
+    color: #666;
+    width: 192px;
+    height: 22px;
+    line-height: 22px;
+    padding-left: 4px;
+    font-size: 12px;
+}
+
+.input_bg0{
+    width: 202px;
+    height: 22px;
+    margin-bottom: 8px;
+}
+.input_bg1{
+    width: 134px;
+    height: 22px;
+    margin-bottom: 10px;
+    margin-right: 8px;
+}
+.zhongrig_sign  .sign3 form input{
+    border-radius: 3px;
+}
+.sign3 select{
+    border: none;
+    height: 22px;
+    line-height: 22px;
+    font-size: 12px;
+}
+.hover01 {
+    background: url(../images/dagou.gif) left center no-repeat;
+    padding-left: 24px;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+    padding-right: 15px;
+    letter-spacing: 1px;
+    padding-bottom: 0;
+    cursor: pointer;
+}
+.ttg {
+    padding-right: 20px;
+    text-indent: 2em;
+    line-height: 20px;
+    padding-top: 3px;
+    font-size: 12px;
+}
+.btn_submit {
+    background: url(../images/queren.gif) left 48.5% no-repeat;
+    width: 112px;
+    height: 28px;
+    margin: 15px 0 15px 43px;
+    display: block;
+    border: 0;
+    cursor: pointer;
+}
+/*右边  结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

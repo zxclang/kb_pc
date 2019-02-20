@@ -1,0 +1,208 @@
+@charset "utf-8";
+.faqlist{
+    width: 1000px;
+    margin: 0 auto;
+}
+.asku1{
+    width: 747px;
+    float: left;
+}
+.fagtig{
+    color: #2d374b;
+    text-align: right;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+}
+.problem_box1{
+    width: 734px;
+    margin: 0 auto;
+    border: 1px ;
+    background-color: #564da0;
+}
+.problem1{
+    width: 100%;
+    height: 70px;
+
+}
+.problem1 span{
+    display: block;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 10px 10px;
+    text-align: center;
+    background-color: #fff;
+    font-size: 36px;
+    border-radius: 5px;
+    line-height: 50px;
+    color: #564da0;
+}
+.problem_timu{
+    float: left;
+    width: 608px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.problem1 a.btn_show{
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    margin-top: 21px;
+    margin-left: 10px;
+    background: url("../images/faq_16.png") no-repeat 0 0;
+}
+.problem_box1 a.btn_show1:active{
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    margin-top: 21px;
+    margin-left: 10px;
+    background: url("../images/faq_16.png") no-repeat 0 -28px;
+}
+.answer{
+    width: 100%;
+    height: 138px;
+}
+.problem_timu p{
+    font-size: 14px;
+    line-height: 40px;
+    color: #2d374b;
+    padding: 6px 15px;
+    font-family: "微软雅黑";
+}
+.answer{
+    display: none;
+}
+.answer span{
+    display: block;
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+    background-color: #fff;
+    font-size: 36px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+    color: #564da0;
+}
+.answer_div{
+    float: right;
+    width: 608px;
+    height: 128px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.answer_div p{
+    font-size: 14px;
+    color: #2d374b;
+    padding: 6px 15px;
+    font-family: "微软雅黑";
+}
+.problem_box1{
+    margin-top: 20px;
+}
+.problem_box1.faq_box{
+    background-color: #d7d7d7;
+}
+
+
+
+
+/*右边  开始*/
+.saishi_zhongrig{
+    margin-top: 43px;
+    width: 238px;
+    height: 430px;
+    float: right;
+}
+.zhongrig_kb_yi{
+    background-color: #90B622;
+    width: 238px;
+    height: 71px;
+    padding: 9px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+.zhongrig_sign{
+    height: 329px;
+    padding-left: 22px;
+    background: #f9ca3b;
+    padding-top: 12px;
+    padding-bottom: 3px;
+    text-align: left;
+    color: #464646;
+    position: relative;
+    margin: 15px 0 0 0;
+    border-radius: 10px;
+}
+.zhongrig_sign .sign3 form input{
+    color: #666;
+    width: 192px;
+    height: 22px;
+    line-height: 22px;
+    padding-left: 4px;
+    font-size: 12px;
+}
+
+.input_bg0{
+    width: 202px;
+    height: 22px;
+    margin-bottom: 8px;
+}
+.input_bg1{
+    width: 134px;
+    height: 22px;
+    margin-bottom: 10px;
+    margin-right: 8px;
+}
+.zhongrig_sign  .sign3 form input{
+    border-radius: 3px;
+}
+.sign3 select{
+    border: none;
+    height: 22px;
+    line-height: 22px;
+    font-size: 12px;
+}
+.hover01 {
+    background: url(../images/dagou.gif) left center no-repeat;
+    padding-left: 24px;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+    padding-right: 15px;
+    letter-spacing: 1px;
+    padding-bottom: 0;
+    cursor: pointer;
+}
+.ttg {
+    padding-right: 20px;
+    text-indent: 2em;
+    line-height: 20px;
+    padding-top: 3px;
+    font-size: 12px;
+}
+.btn_submit {
+    background: url(../images/queren.gif) left 48.5% no-repeat;
+    width: 112px;
+    height: 28px;
+    margin: 15px 0 15px 43px;
+    display: block;
+    border: 0;
+    cursor: pointer;
+}
+/*右边  结束*/
+
+
+
+
+
+
+
+
+
